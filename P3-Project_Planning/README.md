@@ -12,15 +12,21 @@ Include at least 3 wireframes here, adding images or files to your repository as
 
 
 ## Assignment Description
-[Project Planning Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-planning)
+[Main Description](https://education.launchcode.org/liftoff/modules/assignments/project-planning)
 
 
 ## Assignment Description
-[Project Planning Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-planning)
+[popuplinks](https://education.launchcode.org/liftoff/modules/assignments/project-planning)
 
 
 ## Assignment Description
-[Project Planning Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-planning)
+[Select a Skill](https://education.launchcode.org/liftoff/modules/assignments/project-planning)
+
+## Assignment Description
+[Submit a Request](https://education.launchcode.org/liftoff/modules/assignments/project-planning)
+
+## Assignment Description
+[View Posts](https://education.launchcode.org/liftoff/modules/assignments/project-planning)
 
 ### Project Tracker
 
