@@ -11,26 +11,25 @@ For this assignment, you'll create some initial plans for your project.
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 
 
-## Assignment Description
-[Main Description](https://education.launchcode.org/liftoff/modules/assignments/project-planning)
+## Main Description - Introduction of the application and examples to entice one to join
+[Main Description](https://github.com/hssookram01/liftoff-assignments/blob/master/P3-Project_Planning/been-there_description.pdf)
 
 
-## Assignment Description
-[popuplinks](https://education.launchcode.org/liftoff/modules/assignments/project-planning)
+## Pop-ups - Will be on the main description page; pop up for Log-in and Registration links
+[popuplinks](https://github.com/hssookram01/liftoff-assignments/blob/master/P3-Project_Planning/been-there_modals.pdf)
 
 
-## Assignment Description
-[Select a Skill](https://education.launchcode.org/liftoff/modules/assignments/project-planning)
+## Select a Skill - will permit user to see/post particular to forum board of interest (each as button)
+[Select a Skill](https://github.com/hssookram01/liftoff-assignments/blob/master/P3-Project_Planning/been-there_skill_select.pdf)
 
-## Assignment Description
-[Submit a Request](https://education.launchcode.org/liftoff/modules/assignments/project-planning)
+## Submit a Request - User has a question? Post to forum
+[Submit a Request](https://github.com/hssookram01/liftoff-assignments/blob/master/P3-Project_Planning/been-there_submit_request.pdf)
 
-## Assignment Description
-[View Posts](https://education.launchcode.org/liftoff/modules/assignments/project-planning)
+## View respective post(s)
+[View Posts](https://github.com/hssookram01/liftoff-assignments/blob/master/P3-Project_Planning/been-there_view_posts.pdf)
 
 ### Project Tracker
-
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+https://trello.com/b/WhSnpUuk/sightflow
 
 ### Project Repo Link
 
